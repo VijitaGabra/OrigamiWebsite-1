@@ -1,0 +1,28 @@
+h1 {
+    color: rgb(243, 20, 20);
+}
+
+.header{
+
+    background-color: aqua;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.site-description{
+    display: flex;
+    flex-direction: column;
+    justify-content: first baseline;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+p,h2{
+    text-align: center ;
+}
+
